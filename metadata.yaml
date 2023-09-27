@@ -7,9 +7,14 @@ contributor:
     birthdate: 1871
     gutenberg_agent_id: '42146'
     url: http://www.gutenberg.org/2009/agents/42146
+covers:
+- cover_type: archival
+  image_path: 71604-h/images/cover.jpg
 creator:
   author: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71604#The-Rambler-Club-s-aeroplane
 gutenberg_issued: '2023-09-10'
 identifiers:
   gutenberg: '71604'
